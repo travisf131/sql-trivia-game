@@ -9,9 +9,6 @@ using System.Windows;
 
 namespace a04_chop_fiandert
 {
-    /// Relational Databases Assignment 4 - Trivia Game
-    /// Class: DataController
-    /// Purpose: Creates DB connection, handles all required DB operations for the game
     class DataController
     {
         MySqlCommand genericCommand { get; set; }
