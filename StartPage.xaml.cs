@@ -16,9 +16,6 @@ using System.Windows.Threading;
 
 namespace a04_chop_fiandert
 {
-    /// Relational Databases Assignment 4 - Trivia Game
-    /// Class: EndPage : Window
-    /// Purpose: Display end page of game, showing leaderboard, correct answers, user score, and options to play again, or exit.
     public partial class StartPage : Window
     {
         /*  -- Window Constructor Header Comment
