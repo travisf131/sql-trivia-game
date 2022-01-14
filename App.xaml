@@ -1,0 +1,9 @@
+﻿<Application x:Class="a04_chop_fiandert.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:a04_chop_fiandert"
+             StartupUri="StartPage.xaml">
+    <Application.Resources>
+
+    </Application.Resources>
+</Application>
